@@ -30,7 +30,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,laravel,mysql,postgres,mongodb,git,tailwind,bootstrap,chakra,figma,firebase,vercel,netlify,heroku,postman,contentful" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass,dart,,react,vue,solidjs,next,flutter,,nodejs,express,laravel,flask,django,wordpress,,mysql,postgres,sqlite,mongodb,,git,,tailwind,bootstrap,materialui,,docker,kubernetes,,figma,firebase,vercel,netlify,heroku,postman" />
 </div>
 
 ---
